@@ -10,7 +10,7 @@ package main
 import (
 	"fmt"
 	
-    "github.com/rayzui/art"
+  "github.com/rayzui/art"
 )
 
 func main() {
